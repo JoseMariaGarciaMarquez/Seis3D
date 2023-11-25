@@ -26,6 +26,7 @@ SIS3D es una herramienta de análisis de datos sísmicos en 3D, diseñada para c
 
 3. **Generar Perfiles Sísmicos:**
    - Haz clic en "Guardar perfiles" para generar y guardar perfiles sísmicos en las direcciones NW-SE y NE-SW.
+   
 ![iline2113](https://github.com/JoseMariaGarciaMarquez/Seis3D/assets/30852961/bf8db0a9-f4f6-4864-996f-6e53b51bcc9c)
 4. **Calcular Atributos:**
    - Selecciona un atributo (RMS, AI, FI, PI) en el menú desplegable.
